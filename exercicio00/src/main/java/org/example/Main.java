@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         while(true) {
-            String[] times = {"Criciúma", "Palmeiras", "Flamengo"};
+            String[] times = {"Vasco", "Cuiabá", "Flamengo"};
 
             Scanner leitor = new Scanner(System.in);
 
